@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.allink.patches.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "network.ClientPlayNetworkHandlerMixin",
+    "skin.PlayerSkinProviderMixin",
+    "skull.SkullBlockEntityRendererMixin",
+    "text.TranslatableTextMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
