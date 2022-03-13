@@ -26,7 +26,4 @@
     "fabricloader": ">=0.12.0",
     "minecraft": "1.12.2"
   },
-  "suggests": {
-    "another-mod": "*"
-  }
 }
