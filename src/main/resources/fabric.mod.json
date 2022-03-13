@@ -11,7 +11,7 @@
     "homepage": "https://github.com/business-goose/1.12.2-patches",
     "sources": "https://github.com/business-goose/1.12.2-patches"
   },
-  "license": "CC0-1.0",
+  "license": "BSD-3",
   "icon": "assets/patches/icon.png",
   "environment": "*",
   "entrypoints": {
